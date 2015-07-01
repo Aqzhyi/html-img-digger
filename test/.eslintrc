@@ -1,0 +1,15 @@
+{
+  "ecmaFeatures": {
+    "modules": false
+  },
+  "rules": {
+    "no-unused-expressions": 0
+  },
+  "env": {
+    "browser": false,
+    "es6": false,
+    "mocha": true,
+    "node": true,
+    "phantomjs": false
+  }
+}
